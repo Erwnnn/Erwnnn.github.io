@@ -15,7 +15,7 @@
   <section id="about">
     <h2>À propos</h2>
     <p>
-      Je suis Ely NICOLAS, je suis étudiant dans le lycée privé saint Bénigne en premiere année de BTS Services Informatiques Aux Organisations après avoir obtenu mon baccalauréat Technologique (STI2D) option AC (Architecture & Construction) au lycée Hippolyte Fontaine lors de l'année 2024/2025. Passionné par le développement web, je commence à maîtriser HTML, CSS et des outils comme Git et Azure DevOps.
+      Je m'apelle Erwann Salla , je suis étudiant dans le lycée privé saint Bénigne en premiere année de BTS Services Informatiques Aux Organisations.J'ai Obtenue Mon baccalauréat au lycée d'Hippolyte Fontaine En STI2D Spécialité ITEC, j'ai participé a un concours d'ingénieur à Polytechnique et je suis passionnées de Jeux video et je voudrais devenir Game tester
     </p>
   </section>
 
@@ -31,12 +31,9 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email : <a href="mailto:nicolaslucas390@gmail.com">nicolaslucas390@gmail.com</a></p>
-    <p>LinkedIn : <a href="[(https://www.linkedin.com/in/erwann-salla-825299382/)](https://www.linkedin.com/in/erwann-salla-825299382/)" target="_blank">ely-nicolas</a></p>
+    <p>Email : <a href="mailto:erwann.salla@gmail.com">erwann.salla@gmail.com </a></p>
+    <p>Linkedin : <a href="https://www.linkedin.com/in/erwann-salla-825299382/" target="_blank">erwann-salla</a></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Ely Nicolas. Tous droits réservés.</p>
-  </footer>
-</body>
-</html>
+
