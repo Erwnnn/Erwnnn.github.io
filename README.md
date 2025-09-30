@@ -32,7 +32,7 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email : <a href="mailto:nicolaslucas390@gmail.com">nicolaslucas390@gmail.com</a></p>
-    <p>LinkedIn : <a href="(https://www.linkedin.com/in/erwann-salla-825299382/)" target="_blank">ely-nicolas</a></p>
+    <p>LinkedIn : <a href="[(https://www.linkedin.com/in/erwann-salla-825299382/)](https://www.linkedin.com/in/erwann-salla-825299382/)" target="_blank">ely-nicolas</a></p>
   </section>
 
   <footer>
